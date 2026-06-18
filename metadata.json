@@ -1,0 +1,6 @@
+{
+  "name": "Thread Talent",
+  "description": "Secure, tenant-isolated recruitment and talent acquisition core within the Thread HR Solutions Ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
